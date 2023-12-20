@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-family:cursive;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 30px;
+    color: rgb(54, 135, 135);
+}
+.container{
+    background-color: rgb(96, 192, 96);
+    margin-left:560px;
+    margin-top: 35px;
+    height: 550px;
+    width: 430px;
+    border-radius: 30px;
+}
+table{
+    margin: 20px;
+    padding: 20px;
+    width: 50px;
+}
+.btn-operator{
+    padding:20px;
+    margin:10px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color:transparent;
+    text-align: center;
+}
+input[type="text"]{
+    width:280px;
+    height: 40px;
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    background-color:transparent;
+    text-align: center;
+ 
+}
+#btn-equal{
+    background-color: orange;
+}
+#btn-operator{
+    background-color: rgb(123, 122, 122);
+}
+#btn-number{
+    background-color:yellowgreen
+}
